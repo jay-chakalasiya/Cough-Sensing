@@ -1,0 +1,6 @@
+torchsummary
+scipy
+numpy
+pandas
+librosa
+onnx
