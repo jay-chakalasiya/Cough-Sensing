@@ -1,6 +1,0 @@
-<View>
-  <Labels name="label" toName="audio" choice="multiple">
-    <Label value="Cough" />
-  </Labels>
-  <AudioPlus name="audio" value="$audio"/>
-</View>

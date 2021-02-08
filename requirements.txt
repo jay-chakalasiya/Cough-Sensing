@@ -4,3 +4,4 @@ numpy
 pandas
 librosa
 onnx
+torch
